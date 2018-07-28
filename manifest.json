@@ -1,0 +1,3685 @@
+{
+  "homepages": [],
+  "source_base_path": "/home/travis/build/HouraiTeahouse/FantasyCrescendo/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../Assets/Assets/Sprites/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.CreditsAsset.Category.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.CreditsAsset.Category.html",
+          "hash": "D84UvQ6I9/ZjhALMyn1P1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.CreditsAsset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.CreditsAsset.html",
+          "hash": "jjM4g5r3WK6UqDTmWQJxPA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.AbstractHitDetector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.AbstractHitDetector.html",
+          "hash": "o/4vbiWjbOoXOO2jhsmcTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.AnalyticsManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.AnalyticsManager.html",
+          "hash": "8H+U/nCUQ2WBxqCRkHVoig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.ArrayUtil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.ArrayUtil.html",
+          "hash": "Ifrbhe01awC5U1Bhu6bTeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.AudioConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.AudioConfig.html",
+          "hash": "YgIBFW621RPWe/Julv7ZOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.AudioManager.VolumeOptionBinding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.AudioManager.VolumeOptionBinding.html",
+          "hash": "kovKI4YUOeatCPbHQ5CDMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.AudioManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.AudioManager.html",
+          "hash": "HmNuYj6FHFieugF0FGVSLA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.BGM.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.BGM.html",
+          "hash": "VoflnYauLdIngE4S4sdBwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.BGMPlayer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.BGMPlayer.html",
+          "hash": "hKlUQNztKj1OJbhz9gLFgw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.BootstrapSceneLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.BootstrapSceneLoader.html",
+          "hash": "vIH18/d/5DJh5Qy0wZtawA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.BufferedInputSource-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.BufferedInputSource-1.html",
+          "hash": "Xiuoh0VP76vFws9DF53g8Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.CameraController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.CameraController.html",
+          "hash": "MdxRR7u/65dA+e9AJVZDBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.CameraTarget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.CameraTarget.html",
+          "hash": "3I4N5dS4hOsIXyDYdKeAlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.CharacterData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.CharacterData.html",
+          "hash": "362qpfmgasUnEfr/+4sqow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.CharacterStateData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.CharacterStateData.html",
+          "hash": "YP9wfo2gKrNt4CGVRJCvMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterAnimation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterAnimation.html",
+          "hash": "IUt2BMVc3c/f7LsVA1WsNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterCamera.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterCamera.html",
+          "hash": "MbTNWdcXV88TB20c/cCkvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterColor.Swap.MaterialSet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterColor.Swap.MaterialSet.html",
+          "hash": "9U0E4e5YwgLdY3sniNnIUg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterColor.Swap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterColor.Swap.html",
+          "hash": "Po4/pWwk6YyYYEpuyzUWGw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterColor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterColor.html",
+          "hash": "JleWQyP4MVkVMyY3y/vyew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterContext.html",
+          "hash": "gh1CsQtPNELYs01Wg/flwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterControllerBuilder.ShieldStates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterControllerBuilder.ShieldStates.html",
+          "hash": "FYFIEB9xHrQH6UXauWhSuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterControllerBuilder.SmashAttackStates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterControllerBuilder.SmashAttackStates.html",
+          "hash": "Je4F90s06DPRST9NTaY2Hg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterControllerBuilder.StateData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterControllerBuilder.StateData.html",
+          "hash": "JJt6XOAHMPu0ZOAEEGBJRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterControllerBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterControllerBuilder.html",
+          "hash": "7r2krupbyMMeIIHACWfUHw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterHitboxController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterHitboxController.html",
+          "hash": "GAwM2kuvASwgkkSCJmC0sA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterIndicator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterIndicator.html",
+          "hash": "RflLpDcOOFFmNKXYCPtbQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterLedge.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterLedge.html",
+          "hash": "J/jIHHH+OvLk7J74kcLtjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterMovement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterMovement.html",
+          "hash": "GdTwNKSgsRuwIL9JskTCFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterMover.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterMover.html",
+          "hash": "QiYuTuzcKbjwcKsG7bC5+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterPhysics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterPhysics.html",
+          "hash": "YRFYmZpyc50Lxe8159EU7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterRespawn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterRespawn.html",
+          "hash": "AV608Z8Qu8fTyfbF7MYssQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterShield.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterShield.html",
+          "hash": "N574PY39GO3GuakEeCzlig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterState.html",
+          "hash": "c9aG5WY4JDY5u42VeAz7nA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterStateExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterStateExtensions.html",
+          "hash": "jnY1I9Mn5rZnTrgaNAtBhQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterStateMachine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.CharacterStateMachine.html",
+          "hash": "DHBo4EhIDaJCHpNnxiW1Vg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.JumpState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.JumpState.html",
+          "hash": "0UYI7faVhLhvZCtZ9VVPwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.LedgeState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.LedgeState.html",
+          "hash": "z/rMCmlnJJxCXX6JoFdG0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.ShieldState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.ShieldState.html",
+          "hash": "YTG9K3W4sP5r41HspLATbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.SmashAttackState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.SmashAttackState.html",
+          "hash": "CyGzPWGnvAsEiarcd/zlzw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.SmashChargeState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.SmashChargeState.html",
+          "hash": "Suaa0PP5HrxSyBZWea4KwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.StateController-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.StateController-2.html",
+          "hash": "ft6KrWBAnf43v67QwxLEjA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.StateControllerBuilder-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.StateControllerBuilder-2.html",
+          "hash": "yL2wZCCwVLApz7KJE8iP0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.UI.CharacterIcon.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.UI.CharacterIcon.html",
+          "hash": "LSUwn0bsJcr1rE35tmRuKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.UI.CharacterName.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.UI.CharacterName.html",
+          "hash": "8f9uV/epek0ETgKFZSHlJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.UI.CharacterPortrait.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.UI.CharacterPortrait.html",
+          "hash": "kDbH6yWecWpBp2+b64FuCw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.UI.CharacterUIBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.UI.CharacterUIBase.html",
+          "hash": "AnHZqXw2iHq1UtKz7QIpqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.UI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.UI.html",
+          "hash": "ZvoNn9+og9dOWOe28SrHiw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Characters.html",
+          "hash": "qZ8S/5WCqikeV2e+rMHBkQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.ConstantRotation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.ConstantRotation.html",
+          "hash": "WTKnpJSh9hjbkzuIGQcRIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.CoreUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.CoreUtility.html",
+          "hash": "NmU6KMqRHbIr3dVkhkASOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.CustomEventBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.CustomEventBuilder.html",
+          "hash": "Of+0FtUNFGFboBmmu024Dw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.DataLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.DataLoader.html",
+          "hash": "Gx8JbCGDD6zNjrHAxrgylg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.DebugConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.DebugConfig.html",
+          "hash": "6oJuFlnCPIzcmS8N8RwKIA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.DebugDisplay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.DebugDisplay.html",
+          "hash": "jEgXJRK4DrR318yCdP8BGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.DefaultGameMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.DefaultGameMode.html",
+          "hash": "QlqdaeL7ytLexdMaaMFE0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.DirectionMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.DirectionMode.html",
+          "hash": "um1QEID3jvL6pvN7Le4K+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.DiscordManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.DiscordManager.html",
+          "hash": "9Uf6moHLKOKZQEes8ycSlw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.DrawColliders.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.DrawColliders.html",
+          "hash": "tVrBAhfjFb4IGLTbnhBAuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.EditorQuickMatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.EditorQuickMatch.html",
+          "hash": "BzlB58RyDsHZvVvYtB5JKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.EditorQuickMatchResults.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.EditorQuickMatchResults.html",
+          "hash": "QLqdC6QRO0FpDvz02X4BJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.ErrorScreen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.ErrorScreen.html",
+          "hash": "c3vUYdpCtRqsTd2VORDiGA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.FPSCounter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.FPSCounter.html",
+          "hash": "ej/Zu+tPApqoCj9/b+B/IQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.GameDataBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.GameDataBase.html",
+          "hash": "9JTcad8nBjzRQECwlnuWwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.GameMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.GameMode.html",
+          "hash": "wZjMkA9Piv3mNfat/PjBkA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.GameplayConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.GameplayConfig.html",
+          "hash": "NiaVQUPA4VXilIZA6DZ98Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.GizmoUtil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.GizmoUtil.html",
+          "hash": "t1BJm5FajGV/ymFyxiudag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.HitEffect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.HitEffect.html",
+          "hash": "+BvUCJNJQfI9qJ7p/WZLEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.HitInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.HitInfo.html",
+          "hash": "AOkVmfZO0dEyiC8L1ujrEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Hitbox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Hitbox.html",
+          "hash": "y1GxxMsxso0KJbG/M3ZbfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.HitboxCollision.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.HitboxCollision.html",
+          "hash": "ZP5qWLjG4a1/KXgpH6O5HQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.HitboxType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.HitboxType.html",
+          "hash": "wCaYXxsrCd7PKpF+ReWVVA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.HitboxUtil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.HitboxUtil.html",
+          "hash": "rcAe7g5h+Zdp/BAXvldltw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Hurtbox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Hurtbox.html",
+          "hash": "plYeSVqVr/AOXHDfZHC6og=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.HurtboxType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.HurtboxType.html",
+          "hash": "+sf2KtkKG9IlB3BFeDQHDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.IEntity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.IEntity.html",
+          "hash": "p7TtGAu89yH8OE1e6aeLKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.IInitializable-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.IInitializable-1.html",
+          "hash": "1YYrVg+0js2rxe1MUuVkYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.IInputSource-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.IInputSource-1.html",
+          "hash": "3N0AxPpzP3bn+Ge9DknKmA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.IMatchInputSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.IMatchInputSource.html",
+          "hash": "bZJX4W8bDqcjQOaHlcKTqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.IMergable-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.IMergable-1.html",
+          "hash": "f7sNcaAhr55XTNSqj9qrhg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.IMerger-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.IMerger-1.html",
+          "hash": "80bpsa7wayi/YW2QTpH1AA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.ISimulation-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.ISimulation-2.html",
+          "hash": "nupUv0W7j0UDiA8ugVJsBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.IStateView-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.IStateView-1.html",
+          "hash": "bB3p7VmKVI1Ahxs1Sc4kVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.IValidatable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.IValidatable.html",
+          "hash": "R2pPr7q9Qi7VHRkgMx8u1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.IValidatableExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.IValidatableExtensions.html",
+          "hash": "41/WHlPnYRBOZpZp7XhedA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.IValidator-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.IValidator-1.html",
+          "hash": "cYk83I75+AiXnzuep+YvUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.IViewFactory-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.IViewFactory-2.html",
+          "hash": "8xDAJIbd8sZl2EGJfJ8bBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.InControlInputSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.InControlInputSource.html",
+          "hash": "nlIxGge3nbszLkFFOjhJcg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.InControlPlayerInputSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.InControlPlayerInputSource.html",
+          "hash": "okgELJrsf4+eK5dahilZ1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.InputConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.InputConfig.html",
+          "hash": "O2VLiYpyIjDFemd3s0fS3w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.InputHistory-1.Enumerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.InputHistory-1.Enumerator.html",
+          "hash": "q4De2SLLaNrEL5eGtufbwg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.InputHistory-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.InputHistory-1.html",
+          "hash": "S2PQcvAtD0uIew4wlpcGuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Ledge.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Ledge.html",
+          "hash": "8EkWeddJzsJu4g2hq5H3eA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.LoadingScreen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.LoadingScreen.html",
+          "hash": "mK4RhS6/BuRWO+bAGKAF7w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.MainMenu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.MainMenu.html",
+          "hash": "5IicTbBgnk9DNM3PvE3TCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.ManagedAudio.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.ManagedAudio.html",
+          "hash": "1RB9Xin1PB8hVfzyUEL2mw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.MatchCameraTarget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.MatchCameraTarget.html",
+          "hash": "d2gJDrNqgyAdp17OQyTtXQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.MatchPauseController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.MatchPauseController.html",
+          "hash": "XLcEEgUvCzvGy9oV5S+NkQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.MatchStateDebugView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.MatchStateDebugView.html",
+          "hash": "2rjMKUwZplIflQq815g2rA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.MatchTimerUI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.MatchTimerUI.html",
+          "hash": "j0W5wmDN7sh3q2BIDFHJgA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.DefaultMatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.DefaultMatch.html",
+          "hash": "3XeNR5cisCEyg7WzTQ/4lw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.IMatchController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.IMatchController.html",
+          "hash": "QnWhHZLPioyWLxWtSMylQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.IMatchRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.IMatchRule.html",
+          "hash": "baIOBVF8R4TdestkJKKZNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.IMatchSimulation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.IMatchSimulation.html",
+          "hash": "A2tb2Z1dFMd6cyZuu71GbA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.Match.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.Match.html",
+          "hash": "I2kId7xXAhF81IWQgG0akQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchConfig.html",
+          "hash": "4x9JMiIx+imLzlQwBIId/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchController.html",
+          "hash": "ju+f9z0Jqw8Z+yzBp3u3Rw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchCountdownUI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchCountdownUI.html",
+          "hash": "sZf0Mq7XHMaXoa+o08yk4Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchEndEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchEndEvent.html",
+          "hash": "6+zZvEtPImiWSBsbScNdGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchEndUI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchEndUI.html",
+          "hash": "GpkVirysYy88k2CtOSDCuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchEvent.html",
+          "hash": "dwCC842SgtJf0nbRmVFa6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchHitboxSimulation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchHitboxSimulation.html",
+          "hash": "JRRzoVjCAu4FDoUdYPcKcg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchInput.html",
+          "hash": "ZubHUPgrEvnVvr7HYh8+ng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchInputContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchInputContext.html",
+          "hash": "sC3z6p1IPhsBQWRjL/D/UA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchInputMergeStrategy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchInputMergeStrategy.html",
+          "hash": "tOdopysV5q+B2ZCwLiYafA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchManager.html",
+          "hash": "ouD/O0HwJVZFgjTjpcPGLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchPauseStateChangedEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchPauseStateChangedEvent.html",
+          "hash": "r05cdFSXHr4isblYx4RlYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchPlayerSimulation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchPlayerSimulation.html",
+          "hash": "B6HCjjK5ZdorP31Imr4Trw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchProgressionState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchProgressionState.html",
+          "hash": "fzILO0nZ6vR6ehwnIg459w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchResolution.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchResolution.html",
+          "hash": "U5asKD8ENFJsp21g86dT/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchResult.html",
+          "hash": "6X4fhJCFtfpO4gIPfN/qfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchResultUtil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchResultUtil.html",
+          "hash": "1ceHco0Gd1eK2zQshkpnHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchRuleSimulation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchRuleSimulation.html",
+          "hash": "nyj8YVgqwIrZlpsXtsbQBA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchSimulation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchSimulation.html",
+          "hash": "NnAqI/h0rMyTmCr63LGs4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchStartCountdownEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchStartCountdownEvent.html",
+          "hash": "OZ8D6F9dKxffj9XW8cfHmA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchStartEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchStartEvent.html",
+          "hash": "/u/Sa0SCX9XJ1GpgW6ijBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchState.html",
+          "hash": "RbB7AfgU1UP97ZQhgDqNBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.MatchView.html",
+          "hash": "UnPTBt+FDBA0NIoqi/lMSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.PlayerCollisionManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.PlayerCollisionManager.html",
+          "hash": "BU9SEh9WBOigLAoze0HTJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.Rules.MatchRuleFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.Rules.MatchRuleFactory.html",
+          "hash": "C4IqDb/WuvMYykSQbFzzpw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.Rules.StockMatchRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.Rules.StockMatchRule.html",
+          "hash": "yw/yS/LXEWOWZQ8/VCMI3w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.Rules.TimeMatchRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.Rules.TimeMatchRule.html",
+          "hash": "NL7Wi7ucI7u6tJAhMh7GQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.Rules.TimeStockMatchRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.Rules.TimeStockMatchRule.html",
+          "hash": "nefr39YwmSEP9NwXnEQSCQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.Rules.TrainingMatchRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.Rules.TrainingMatchRule.html",
+          "hash": "1wNUaml5EM3dha1DLVgt9A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.Rules.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.Rules.html",
+          "hash": "2AUe8ZZGPQ3Vcr+im4U7Zw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.TrainingMatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.TrainingMatch.html",
+          "hash": "GHsZMX6yJiz/+S2lrNgOJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matches.html",
+          "hash": "xHv1m80u3U44lCsurEaCBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matchmaking.IMatchmaker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matchmaking.IMatchmaker.html",
+          "hash": "pnfuuQU5kd1ncP6fqa+NPA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matchmaking.LobbyDisplay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matchmaking.LobbyDisplay.html",
+          "hash": "Hmy88fZQ4K7Emp4fDz79pw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matchmaking.LobbyInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matchmaking.LobbyInfo.html",
+          "hash": "MAEV9NSRMnnn/yBKi4jRmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matchmaking.LobbyListUI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matchmaking.LobbyListUI.html",
+          "hash": "yrqWzzPrcTx0SERq7s1vYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matchmaking.MatchmakerController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matchmaking.MatchmakerController.html",
+          "hash": "TPLkhftgt3P9GiMY0MxpXA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matchmaking.SteamMatchmaker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matchmaking.SteamMatchmaker.html",
+          "hash": "KJZKEy33Yg8U8BkE4y0iEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matchmaking.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Matchmaking.html",
+          "hash": "ssORkjUp7nOopjApSoH9xQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Menu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Menu.html",
+          "hash": "f1ZW5awczKpwAdIfLFpl9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.MenuManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.MenuManager.html",
+          "hash": "GPRxIEVm4cDU2JnE1zFXow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Merger-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Merger-1.html",
+          "hash": "ajVeYvB0aCHDYNWX3f4hqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.MessageCodes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.MessageCodes.html",
+          "hash": "xWYXgB8utBj1kraeA2nAKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Messaging.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Messaging.html",
+          "hash": "2EG+EaVfSnzswUmH0QB/eg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.MovementType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.MovementType.html",
+          "hash": "IakpxYjIe9b7eNknbnigoQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.NetworkConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.NetworkConfig.html",
+          "hash": "RqNaOIgHovvnB96lruDHvA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.NetworkMenu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.NetworkMenu.html",
+          "hash": "FAXW93C9Mgsowcd/MnAMoA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.NetworkReliablity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.NetworkReliablity.html",
+          "hash": "TwXGYq1zVWiDGwu1wXyfWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.ClientGameController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.ClientGameController.html",
+          "hash": "7Dc6Fsvn3sSE3TOMV9ZQ8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.ClientUpdateConfigMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.ClientUpdateConfigMessage.html",
+          "hash": "G/lXtuQCVxqZU9zh22DZiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.ConnectionStats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.ConnectionStats.html",
+          "hash": "i9qDZwZX5/Km5WYuaEcImg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.ConnectionStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.ConnectionStatus.html",
+          "hash": "SXuQBmUX/MKYfONKZ0atRA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.Deserializer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.Deserializer.html",
+          "hash": "/gPckjRYvMbabyVvUKQ/QQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.INetworkClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.INetworkClient.html",
+          "hash": "GqAQNDcUm2iHCke1zbD21A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.INetworkInterface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.INetworkInterface.html",
+          "hash": "OF52nCngK0yDKujPlx8bBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.INetworkSerializable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.INetworkSerializable.html",
+          "hash": "m23gXWl00VZbs9tDgo+hpA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.INetworkServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.INetworkServer.html",
+          "hash": "grl8Pwx/PWQ02KZOR7/TxA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.INetworkStrategy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.INetworkStrategy.html",
+          "hash": "asNB99oeFoYuGrRRz6Bemg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.INetworkStrategyExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.INetworkStrategyExtensions.html",
+          "hash": "IrWVZgcxZdkaivTmPNCMbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.InputSetMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.InputSetMessage.html",
+          "hash": "Nz46umY7BDdak7b3KuSepA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.LockstepStrategy.Client.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.LockstepStrategy.Client.html",
+          "hash": "FlwRGhgdTO/iA5Th0SRbjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.LockstepStrategy.Server.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.LockstepStrategy.Server.html",
+          "hash": "ll+MxqCuKx7O0LC5mEixvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.LockstepStrategy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.LockstepStrategy.html",
+          "hash": "x3Ssy8k/4MpRFcA401cmcw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.MatchFinishMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.MatchFinishMessage.html",
+          "hash": "sHgeYYPtl2ZM6ci53KI+OA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.MatchStartMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.MatchStartMessage.html",
+          "hash": "yv/JAfRV3JtfL717N7/mPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.MessageHandlers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.MessageHandlers.html",
+          "hash": "7ksPx2/IS8i7rx2+KVrCtQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkClientConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkClientConfig.html",
+          "hash": "Muv7BqaFTbwIm/+9ArppTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkClientPlayer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkClientPlayer.html",
+          "hash": "PjPze/BKEx6VxUBtqgP1Aw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkConnection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkConnection.html",
+          "hash": "Vlp70IPriv87dG7DkuLg/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkConnectionConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkConnectionConfig.html",
+          "hash": "+KO8dki6zwPdULwFulCEvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkConnectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkConnectionExtensions.html",
+          "hash": "LNs+8jgBrfUD6m6h1a/sbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkDataMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkDataMessage.html",
+          "hash": "8Ur1x2c5Lo6LJfHWepSWww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkGameClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkGameClient.html",
+          "hash": "3O3yHqZT14zWiLWH8WMxAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkGameMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkGameMode.html",
+          "hash": "vn6UIlnnQBVYYNI3ZfBMlA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkGameServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkGameServer.html",
+          "hash": "TH21Teu0czsUh5fs7hCdNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkGameSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkGameSetup.html",
+          "hash": "JzGnUGciUJoXME9nMK2/5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkHost.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkHost.html",
+          "hash": "J7mZ7veDDwn9AQhsfdn2+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkHostConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkHostConfig.html",
+          "hash": "087Sv2ts5UeBujXa7+n/MQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkHostController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkHostController.html",
+          "hash": "gCuV3ckUbD/V7rMqXzKBSw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkInterface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkInterface.html",
+          "hash": "kJJWaRMo+EBRp9loBYSJGg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkInterfaceConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkInterfaceConfiguration.html",
+          "hash": "lVPXHFZQCsPEFnOU4U2wQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkInterfaceType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkInterfaceType.html",
+          "hash": "qlXvpfYfdKuNmwhvgcVP1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkManager.html",
+          "hash": "1cK0MYuueGh0ONboqNqAyw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkMatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkMatch.html",
+          "hash": "kNqhnFlI+urFm55GL+TxOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkServerConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkServerConfig.html",
+          "hash": "y/AIw4cJSaB38IxDjQ0qOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkingException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.NetworkingException.html",
+          "hash": "/2rBaxYwrdV+FLYchM4Zeg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.PeerReadyMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.PeerReadyMessage.html",
+          "hash": "PEY89vu+tXYTx/6S6eq0mQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.RollbackStrategy.Client.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.RollbackStrategy.Client.html",
+          "hash": "8KU4tLxcTklp6tYtBTpWyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.RollbackStrategy.Server.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.RollbackStrategy.Server.html",
+          "hash": "M8CQ1AD725EAOyzzSfCMmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.RollbackStrategy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.RollbackStrategy.html",
+          "hash": "GkcfYGB7X0deK0e5ZD2F+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.Serializer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.Serializer.html",
+          "hash": "Pu1C3Y9sc0uMGJKLppZVBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.ServerGameController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.ServerGameController.html",
+          "hash": "ytaiEerZIVMkouXi+0QYVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.ServerStateMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.ServerStateMessage.html",
+          "hash": "OZjEZJO4fsLH/dNCwvRvvQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.ServerUpdateConfigMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.ServerUpdateConfigMessage.html",
+          "hash": "O9F51HGy1n7XNImH1y1lOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.Steam.SteamNetworkInterface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.Steam.SteamNetworkInterface.html",
+          "hash": "gPHoGFZuysm5HLhxdvSjVw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.Steam.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.Steam.html",
+          "hash": "RSfA+L6IrU+EYbRSbJEaZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.SteamUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.SteamUtility.html",
+          "hash": "pBSEK9vBMk5KcUXEh+9KaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.UNET.UNETNetworkInterface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.UNET.UNETNetworkInterface.html",
+          "hash": "/x5HMKTh1pzx5Glt77cc7w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.UNET.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.UNET.html",
+          "hash": "tg0f4aHRSHRRSY6TDOFOuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.UNETUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.UNETUtility.html",
+          "hash": "2rTf7GoY01Upe3w/f2vjpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Networking.html",
+          "hash": "fEQsGiiiNgXnUaccCquBAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.PauseSFX.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.PauseSFX.html",
+          "hash": "KThxqObOCilwX/kE7BZDDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.PauseVisibility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.PauseVisibility.html",
+          "hash": "C+0sDuerO/WfS+2Eg699KA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.PhysicsConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.PhysicsConfig.html",
+          "hash": "N6uWW3A+1gS2nkCBGkUUXA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Platform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Platform.html",
+          "hash": "HU/G1GmBUYBGZa+thOBCjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlatformHardness.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlatformHardness.html",
+          "hash": "olJMPtspZL4XITzEgB0O1Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlayerColor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlayerColor.html",
+          "hash": "xC9TLLSwHyxc+oPbvEgIrg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlayerConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlayerConfig.html",
+          "hash": "vtb2mJjLpy5GRzXN65kOyg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlayerControllerMapping.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlayerControllerMapping.html",
+          "hash": "ViwM7E0uRVPjYvZxs4JaxQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlayerIndicatorFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlayerIndicatorFactory.html",
+          "hash": "N4VzHHTe7oFYZpFBPJcs4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlayerMatchResultDisplayFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlayerMatchResultDisplayFactory.html",
+          "hash": "AnDPYabB2hy6JSvmXCqf4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlayerMatchStats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlayerMatchStats.html",
+          "hash": "Z+NXyUtS7iCSe9474/bSLg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlayerName.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlayerName.html",
+          "hash": "DYgB2IUop7i57+3uDPwNLA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlayerSelection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlayerSelection.html",
+          "hash": "oPTkfZ0IH5HdKM3Pvc6dRg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlayerStateDebugView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlayerStateDebugView.html",
+          "hash": "6qf3oJ6DSYNDalyFN8SeYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlayerViewFactory-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.PlayerViewFactory-1.html",
+          "hash": "/WkS8OJHNndJkY0fVyITeQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.ButtonContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.ButtonContext.html",
+          "hash": "A6rCfh7tIJlFH8Oe32UUAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.Direction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.Direction.html",
+          "hash": "ZuazZVvs7P6NqWWY0a7qPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.DirectionalInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.DirectionalInput.html",
+          "hash": "OBHdtFeuiu/crAhj5g6CZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.IPlayerComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.IPlayerComponent.html",
+          "hash": "tHDXp6VjqIkgc0v7VEaj1w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.IPlayerSimulation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.IPlayerSimulation.html",
+          "hash": "a8Gm0GNxg5BdvNnuamzEqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.IPlayerView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.IPlayerView.html",
+          "hash": "52tCSYfAiMeGu3SF21WjEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.IPlayerViewFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.IPlayerViewFactory.html",
+          "hash": "H7pxpocrwPgGA8ADgCBP1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.InputUtil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.InputUtil.html",
+          "hash": "TEAq1C+ufRHkS5WtPEgCaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerActive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerActive.html",
+          "hash": "tIhpNyzH+qEvtfLW7cewiw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerDamage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerDamage.html",
+          "hash": "Wx3hAU3k3FxkjTxS97AzGA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerDiedEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerDiedEvent.html",
+          "hash": "HEctr7pEuPo5eO/UmTyULg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerDisplayFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerDisplayFactory.html",
+          "hash": "wXkl42No628Lm2xIyUSSuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerEvent.html",
+          "hash": "Q9mxw7zXxRs2DxEZnfAV1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerInput.html",
+          "hash": "RfUt3XkLA5s5uVjXZO6JfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerInputContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerInputContext.html",
+          "hash": "T0ggHPZqHvzsOJ66SbJurw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerResetEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerResetEvent.html",
+          "hash": "JVc2uuW7yNSFWfEw7hgilQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerRespawnEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerRespawnEvent.html",
+          "hash": "a1Hz099dghtwWiuyQa8M3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerSimulation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerSimulation.html",
+          "hash": "cjPNKKsnrjniB66WXdEcYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerState.html",
+          "hash": "i15c/+IvQHQ0yeRhhMIxbg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerStockDisplay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerStockDisplay.html",
+          "hash": "/aDCZjrj3gE4LpM0hh7enw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerUtil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerUtil.html",
+          "hash": "FgJbxhu0mwfzoLvrfywvVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.PlayerView.html",
+          "hash": "WAVLs2+ZFZmSvyNo9ZLL/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.Vector2b.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.Vector2b.html",
+          "hash": "22htvQLxj4JpDTZfAuXuKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Players.html",
+          "hash": "urL8H/VfzrEAqxmPgEhkzw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.PostProcessingOptionsControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.PostProcessingOptionsControl.html",
+          "hash": "/Wa0oefnEdfUBso3KYO9FQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.QualityManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.QualityManager.html",
+          "hash": "dGg/H4eM+8tUwkggyVnOJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.RegisteredBehaviour-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.RegisteredBehaviour-2.html",
+          "hash": "QFdB/WaAoKcBgQqXN42UIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Registry-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Registry-1.html",
+          "hash": "+YfqUGd0pyptxSplz10P6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Registry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Registry.html",
+          "hash": "NxaQ7O9qFvOb4pMH7ntVsw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.RequireSteam.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.RequireSteam.html",
+          "hash": "9dDYU4IN+QSG45PYN1EPhg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.SceneConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.SceneConfig.html",
+          "hash": "KSGjOji0rjVAcsJmA4r/Fg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.SceneData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.SceneData.html",
+          "hash": "EzQwt+3gYZKFJJXcTdownA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.SceneLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.SceneLoader.html",
+          "hash": "DmD9ufLx8u15/dYm0xVH6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.SceneType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.SceneType.html",
+          "hash": "d/ptgnfb0QMjV6sGyaLhUg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.SoundEffect.ClipSelectionMethod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.SoundEffect.ClipSelectionMethod.html",
+          "hash": "7h3tiqB9y6rGZW1YqRJvcQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.SoundEffect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.SoundEffect.html",
+          "hash": "8Io/hGcW/vKY6PXpTfn/QA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Stages.BlastZone.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Stages.BlastZone.html",
+          "hash": "9jk5XzxSaqswRBdfYCeETw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Stages.RespawnController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Stages.RespawnController.html",
+          "hash": "XycQD0GT5U7Nh9tpBm8nQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.Stages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.Stages.html",
+          "hash": "w6UH8fwULjhyot9u7lORsg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.State-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.State-1.html",
+          "hash": "co9jmzme/BnjUCd2O65LWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.StateEntryPolicy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.StateEntryPolicy.html",
+          "hash": "zxkj9dT/NRItUdYwwVsaqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.StateExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.StateExtensions.html",
+          "hash": "xMlkHIPABbh7MGinjZluYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.TestAssetDisplay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.TestAssetDisplay.html",
+          "hash": "RwTCpN+B/hx3epKbAaea3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.TestInputSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.TestInputSource.html",
+          "hash": "mXHU2l62Ga8JdQVugqiFZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.TimeScaledAudio.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.TimeScaledAudio.html",
+          "hash": "NnctQl7xfqyXalEtINCoYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.TimedInput-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.TimedInput-1.html",
+          "hash": "Cvy9/ZogskUwTj42PuLiDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.TrainingGameMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.TrainingGameMode.html",
+          "hash": "iYnRfYxGVH5sqeJvUYIvWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.UI.CharacterSelectMenu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.UI.CharacterSelectMenu.html",
+          "hash": "6NO0u1pauKXDZUlOcPQAJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.UI.CreditsUIBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.UI.CreditsUIBuilder.html",
+          "hash": "yS6ip4lorm1mG1MKIYss5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.UI.GameSetupMenu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.UI.GameSetupMenu.html",
+          "hash": "rok2XoGcuMH6OiMnl7LeoA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.UI.PlayerSelectControls.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.UI.PlayerSelectControls.html",
+          "hash": "2LeHQAmTPKNkNpQecJI2Ig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.UI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.UI.html",
+          "hash": "fZNamkI48Mobt1IWAunBfg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.VersionText.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.VersionText.html",
+          "hash": "tjTgcJlM9hA/6hHjCGOoxQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.ViewFactory-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.ViewFactory-2.html",
+          "hash": "NDxCmGO644Dkc9DYXU5w6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.VisualConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.VisualConfig.html",
+          "hash": "NYufE9FaeHJNi4nWS+Jx0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.FantasyCrescendo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.FantasyCrescendo.html",
+          "hash": "6yUw/11nzyTxRNO/z5PgFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.OptionsUIBuilder.OptionMenuElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.OptionsUIBuilder.OptionMenuElement.html",
+          "hash": "B26lvZ5/HwEjkeRC2nArsA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.OptionsUIBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.OptionsUIBuilder.html",
+          "hash": "KqwN1QnodewyiSFaRFzipQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.Screenshot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.Screenshot.html",
+          "hash": "l/oIyGSXbsUnBmMbCP+ttw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/HouraiTeahouse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/HouraiTeahouse.html",
+          "hash": "Ya91GXCo938g5U9pd/76lw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityEngine.Analytics.DataPrivacy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityEngine.Analytics.DataPrivacy.html",
+          "hash": "nDXRpQVPTtT7tbhKFEtmEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityEngine.Analytics.DataPrivacyButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityEngine.Analytics.DataPrivacyButton.html",
+          "hash": "1ljGJIQfh2R2c8M+o30YBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityEngine.Analytics.DataPrivacyLegacySupport.SimpleJson.IJsonSerializerStrategy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityEngine.Analytics.DataPrivacyLegacySupport.SimpleJson.IJsonSerializerStrategy.html",
+          "hash": "BE7TuNUXd4iVBvpLtH/S1w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityEngine.Analytics.DataPrivacyLegacySupport.SimpleJson.JsonArray.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityEngine.Analytics.DataPrivacyLegacySupport.SimpleJson.JsonArray.html",
+          "hash": "eo8wZAj+gx6NKSBpkcDxPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityEngine.Analytics.DataPrivacyLegacySupport.SimpleJson.JsonObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityEngine.Analytics.DataPrivacyLegacySupport.SimpleJson.JsonObject.html",
+          "hash": "PDff4CQCkPY3Eq60OXsBtw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityEngine.Analytics.DataPrivacyLegacySupport.SimpleJson.PocoJsonSerializerStrategy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityEngine.Analytics.DataPrivacyLegacySupport.SimpleJson.PocoJsonSerializerStrategy.html",
+          "hash": "qY1mVTbDjRQadNWUm7BdWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityEngine.Analytics.DataPrivacyLegacySupport.SimpleJson.SimpleJson.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityEngine.Analytics.DataPrivacyLegacySupport.SimpleJson.SimpleJson.html",
+          "hash": "YaXfyC2Pm5QtM0DT2U/GKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityEngine.Analytics.DataPrivacyLegacySupport.SimpleJson.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityEngine.Analytics.DataPrivacyLegacySupport.SimpleJson.html",
+          "hash": "ZP5i2ZQ14Rlm9T8MsgQQSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityEngine.Analytics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityEngine.Analytics.html",
+          "hash": "6cewqeafneQD5lWLNLLmjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "WuyrGkNJMkUjSLYIlJtS9A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "kK6BqKyFaLLUdOfbD+B+6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/exporting-animation.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/exporting-animation.html",
+          "hash": "VDsvq1e1rvCR5+Ta+ucdPQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/getting-started.html",
+          "hash": "xSL37dXOs+gIrUqTo4a4NA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/reporting-bugs.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/reporting-bugs.html",
+          "hash": "BOu931036TftQRU1jHsvYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/simulation-model.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/simulation-model.html",
+          "hash": "VPXx1+Nie/rF0PDQ7n00IA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/steam-closed-beta.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/steam-closed-beta.html",
+          "hash": "qD3SiMd9JobrmW4KHj7WTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "guides/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "guides/toc.html",
+          "hash": "GDo15ich4X2ENs3/6Ih0Ww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "wPgngGB3992Lbq/u8BI9FA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "IJHKFJWIS3iligdFbO9tLg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build"
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build"
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
